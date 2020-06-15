@@ -1,0 +1,11 @@
+C:\Users\senai\Desktop\PrimeiroPOO\bin\Debug\netcoreapp3.0\PrimeiroPOO.exe
+C:\Users\senai\Desktop\PrimeiroPOO\bin\Debug\netcoreapp3.0\PrimeiroPOO.deps.json
+C:\Users\senai\Desktop\PrimeiroPOO\bin\Debug\netcoreapp3.0\PrimeiroPOO.runtimeconfig.json
+C:\Users\senai\Desktop\PrimeiroPOO\bin\Debug\netcoreapp3.0\PrimeiroPOO.runtimeconfig.dev.json
+C:\Users\senai\Desktop\PrimeiroPOO\bin\Debug\netcoreapp3.0\PrimeiroPOO.dll
+C:\Users\senai\Desktop\PrimeiroPOO\bin\Debug\netcoreapp3.0\PrimeiroPOO.pdb
+C:\Users\senai\Desktop\PrimeiroPOO\obj\Debug\netcoreapp3.0\PrimeiroPOO.csprojAssemblyReference.cache
+C:\Users\senai\Desktop\PrimeiroPOO\obj\Debug\netcoreapp3.0\PrimeiroPOO.AssemblyInfoInputs.cache
+C:\Users\senai\Desktop\PrimeiroPOO\obj\Debug\netcoreapp3.0\PrimeiroPOO.AssemblyInfo.cs
+C:\Users\senai\Desktop\PrimeiroPOO\obj\Debug\netcoreapp3.0\PrimeiroPOO.dll
+C:\Users\senai\Desktop\PrimeiroPOO\obj\Debug\netcoreapp3.0\PrimeiroPOO.pdb
